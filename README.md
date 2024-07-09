@@ -1,3 +1,21 @@
+# FUNCTION FRONT-END
+
+This NodeJS program demonstrates an ETH atm using Metamask Wallet.
+
+## Description
+
+This code is a React component for a webpage that interacts with the Ethereum blockchain using the MetaMask wallet and the ethers.js library. The component allows users to connect their MetaMask wallet, view their account balance, and perform actions such as depositing, withdrawing, and transferring Ether. It also interacts with a deployed smart contract. 
+
+## Authors
+
+ZUNIEGA, Kane Nathaniel O.
+## FEU INSTITUTE OF TECHNOLOGY
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
 # Starter Next/Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
